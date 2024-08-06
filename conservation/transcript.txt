@@ -1,0 +1,4 @@
+Primer Art: La mujer nace permanece y muere libre al igual que el hombre en derechos.
+Segundo Art: .
+Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
+Cuarto Art: Soy el texto del cuarto artículo, debo estar en una sola línea.
